@@ -1,0 +1,128 @@
+.header{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+
+.top-div{
+    width: auto;
+    height: 40px;
+    background-color: blue;
+    padding-left: 100px;
+    display: flex;
+}
+
+.left-info{
+    width: 65%;
+    height: 100%;
+    color: white;
+    text-align: left;
+    padding: 10px;
+    display: flex;
+    padding: 0px;
+}
+
+.left-info div{
+    margin-left: 10px;
+    height: 80%;
+    display: flex;
+}
+
+.left-info div h5{
+    font-size: 15px;
+    margin: 0px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 5px
+}
+
+.left-info div img{
+    width: 15px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+
+.right-info{
+    width: 25%;
+    height: 100%;
+    text-align: right;
+    text-decoration: solid;
+    padding: 10px;
+}
+
+.right-info img{
+    width: 10px;
+    margin-left: 10px;
+}
+
+.right-info a{
+    margin-right: 5px;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+
+.logo-div{
+    width: auto;
+    height: 60px;
+    background-color: whitesmoke;
+    padding-left: 100px;
+    vertical-align: middle;
+    display: flex;
+    font-size: 30px;
+}
+
+.logo-div h2{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.menu-div{
+    width: auto;
+    height: 50px;
+    background-color: black;
+    padding-left: 100px;
+    padding-right: 100px;
+    display: flex;
+}
+
+.menu-div img{
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 30px;
+}
+
+.bottom-div{
+    width: auto;
+    padding: 0px;
+    height: 60px;
+    background-color: whitesmoke;
+    padding-left: 100px;
+    display: flex;
+    font-size: 30px;
+}
+
+.bottom-div span{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+/*Dividers*/
+
+.divider{
+    height: 100%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+}
+
+/*Menu items*/
+
+.menu-item{
+    width: 150px;
+    height: 100%;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
