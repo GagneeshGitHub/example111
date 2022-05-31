@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/example111/static/css/main.ebdef007.css",
+    "main.js": "/example111/static/js/main.f8cb1501.js",
+    "static/js/787.5d86f947.chunk.js": "/example111/static/js/787.5d86f947.chunk.js",
+    "static/media/linkedintransparent.png": "/example111/static/media/linkedintransparent.6427c6132909d405e7ee.png",
+    "static/media/instagramtransparent.png": "/example111/static/media/instagramtransparent.aa415d5a09a300142aae.png",
+    "static/media/whitemail.png": "/example111/static/media/whitemail.990a136dd2b00571e68f.png",
+    "static/media/whitef.png": "/example111/static/media/whitef.52beb75b3abb5cb8a872.png",
+    "static/media/phonelogo.png": "/example111/static/media/phonelogo.0675ce8cd112d50cb0be.png",
+    "static/media/homelogo.png": "/example111/static/media/homelogo.8d653eab655d953893a4.png",
+    "static/media/circlephone.png": "/example111/static/media/circlephone.ed02983aa140cceba05c.png",
+    "static/media/circlemaillogo.png": "/example111/static/media/circlemaillogo.422b5c38225d99085e44.png",
+    "static/media/facebooktransparent.png": "/example111/static/media/facebooktransparent.927f0293c22a728a97ba.png",
+    "static/media/whitelinked.png": "/example111/static/media/whitelinked.9ff8288bfb05459efd0d.png",
+    "static/media/logo.svg": "/example111/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/example111/index.html",
+    "main.ebdef007.css.map": "/example111/static/css/main.ebdef007.css.map",
+    "main.f8cb1501.js.map": "/example111/static/js/main.f8cb1501.js.map",
+    "787.5d86f947.chunk.js.map": "/example111/static/js/787.5d86f947.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebdef007.css",
+    "static/js/main.f8cb1501.js"
+  ]
+}
